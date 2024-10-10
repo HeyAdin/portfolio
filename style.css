@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {}
+
+.hero-page {}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left-nav {}
+
+.right-nav {
+    display: flex;
+
+}
+
+.hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.hero-text {}
+
+.resume-email {
+    display: flex;
+}
+
+.hero-img img{
+    height: 150px;
+    width: 150px;
+    border-radius: 99%;
+}
